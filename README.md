@@ -1,16 +1,99 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, I'm Rolan</h2>
+<h4 align="center">Computer Science Student | King Abdulaziz University</h4>
+<h5 align="center">Founder Member of the Artificial Intelligence Club | Social Committee Secretary</h5>
 
-<!--
-**RolanAlyoubi/RolanAlyoubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🎓 I'm a **Computer Science student** at **King Abdulaziz University (KAU)**.  
+- 🤖 I'm a **founding member** of the **Artificial Intelligence Club**.  
+- 💼 Serving as the **Social Committee Secretary**.  
+- 🧠 Passionate about **Machine Learning**, **software development**, and **problem-solving**.  
+- 💬 I have experience in **Python**, **Java**, and **C#**.  
+- 🧩 Worked with tools like **Visual Studio**, **Visual Studio Code**, and **Git**.  
+- 📚 Currently learning more about **AI applications** and **data-driven projects**.
+
+---
+
+### 🛠️ Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-0078D7?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Contact Me
+<p>
+  <a href="mailto:rolansami01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/<h2 align="center">Hi there 👋, I'm Rolan</h2>
+<h4 align="center">Computer Science Student | King Abdulaziz University</h4>
+<h5 align="center">Founder Member of the Artificial Intelligence Club | Social Committee Secretary</h5>
+
+---
+
+<p align="center">
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=false&line_height=24&title_color=0078D7&icon_color=1b93c9&show_owner=true" />
+</p>
+
+---
+
+### 💻 About Me
+- 🎓 I'm a **Computer Science student** at **King Abdulaziz University (KAU)**.  
+- 🤖 I'm a **founding member** of the **Artificial Intelligence Club**.  
+- 💼 Serving as the **Social Committee Secretary**.  
+- 🧠 Passionate about **Machine Learning**, **software development**, and **problem-solving**.  
+- 💬 I have experience in **Python**, **Java**, and **C#**.  
+- 🧩 Worked with tools like **Visual Studio**, **Visual Studio Code**, and **Git**.  
+- 📚 Currently learning more about **AI applications** and **data-driven projects**.
+
+---
+
+### 🛠️ Technologies & Tools
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-0078D7?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+</p>
+
+---
+
+### 📫 Contact Me
+<p>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/rolan-alyoubi-a67288386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="http://views.whatilearened.today/views/github/YOUR_GITHUB_USERNAME/views.svg"/>
+</p>
+
+---
+
+<h4 align="center">✨ "Always learning, always growing." ✨</h4>
+"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://github.com/RolanAlyoubi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="http://views.whatilearened.today/views/github/RolanAlyoubi/views.svg"/>
+</p>
+
+---
+
+<h4 align="center">✨ "Always learning, always growing." ✨</h4>
